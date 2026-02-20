@@ -2,7 +2,7 @@ import React from 'react'
 
 function Name() {
   const reload = () => {
-    window.location.href = '/'
+    window.location.href = process.env.PUBLIC_URL + '/'
   }
 
   return (

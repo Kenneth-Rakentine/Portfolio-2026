@@ -9,7 +9,7 @@ import { ParallaxProvider } from 'react-scroll-parallax';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
     <ParallaxProvider>
       <App />
       </ParallaxProvider>

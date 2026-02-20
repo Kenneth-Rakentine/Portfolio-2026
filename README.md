@@ -1,6 +1,6 @@
 # Kenneth Rakentine — Portfolio 2026
 
-[![Logo](src/images/2026logo.png)](https://kenneth-rakentine.github.io/Portfolio-2026/)
+[![Logo](2026logo.png)](https://kenneth-rakentine.github.io/Portfolio-2026/)
 
 **[→ Live Site](https://kenneth-rakentine.github.io/Portfolio-2026)**
 
