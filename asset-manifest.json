@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio-2026/static/css/main.a1a20a64.css",
-    "main.js": "/Portfolio-2026/static/js/main.9bd460b8.js",
+    "main.css": "/Portfolio-2026/static/css/main.32a9364f.css",
+    "main.js": "/Portfolio-2026/static/js/main.fae72585.js",
     "static/js/787.ced97632.chunk.js": "/Portfolio-2026/static/js/787.ced97632.chunk.js",
     "static/media/Netflix-Functions-Mockup.png": "/Portfolio-2026/static/media/Netflix-Functions-Mockup.b42e96d2753611ffd7b9.png",
     "static/media/Ghost-Hunter-Game.jpg": "/Portfolio-2026/static/media/Ghost-Hunter-Game.755c1befa4d7153de6a6.jpg",
@@ -12,12 +12,12 @@
     "static/media/30NightTaxCalculator.png": "/Portfolio-2026/static/media/30NightTaxCalculator.93722e2eb49590333d31.png",
     "static/media/PerScholasReactGP.png": "/Portfolio-2026/static/media/PerScholasReactGP.f6cc1b743c2113111a0e.png",
     "index.html": "/Portfolio-2026/index.html",
-    "main.a1a20a64.css.map": "/Portfolio-2026/static/css/main.a1a20a64.css.map",
-    "main.9bd460b8.js.map": "/Portfolio-2026/static/js/main.9bd460b8.js.map",
+    "main.32a9364f.css.map": "/Portfolio-2026/static/css/main.32a9364f.css.map",
+    "main.fae72585.js.map": "/Portfolio-2026/static/js/main.fae72585.js.map",
     "787.ced97632.chunk.js.map": "/Portfolio-2026/static/js/787.ced97632.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a1a20a64.css",
-    "static/js/main.9bd460b8.js"
+    "static/css/main.32a9364f.css",
+    "static/js/main.fae72585.js"
   ]
 }
